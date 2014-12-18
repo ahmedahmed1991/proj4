@@ -1,0 +1,63 @@
+body {
+	padding:20px;
+}
+
+.logo {
+	width:500px;
+	margin-bottom:20px;
+	display:block;
+}
+
+label,input {
+	display:block;
+	margin-top:10px;
+}
+
+.flash-message {
+	width:100%;
+	position:absolute;
+	top:0;
+	left:0;
+	background-color:yellow;
+	text-align:center;
+	padding:5px;
+}
+
+nav ul {
+	list-style-type:none;
+	padding:5px 0px 5px 0px;
+}
+
+nav ul li {
+	display:inline;
+	margin-right:10px;
+}
+
+a:link, a:visited, a:active, a:hover {
+	text-decoration:underline;
+}
+
+.brands {
+	color:grey;
+	font-family:consolas;
+}
+.page-header{
+	width:100%;
+	position:left;
+	top:0;
+	left:0;
+	
+	
+}
+
+.car {
+	
+	padding:10px;
+	padding-top:0px;
+	float:left;
+	width:300px;
+	margin-right:10px;
+	margin-bottom:10px;
+	height:375px;
+
+}
