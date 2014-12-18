@@ -25,7 +25,7 @@ return array(
 			'host'      => 'localhost',
 			'database'  => 'cars',
 			'username'  => 'root',
-			'password'  => 'root',
+			'password'  => 'kMxPkKnl3l',
 			'charset'   => 'utf8',
 			'collation' => 'utf8_unicode_ci',
 			'prefix'    => '',
